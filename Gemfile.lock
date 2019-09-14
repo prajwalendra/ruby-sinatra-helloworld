@@ -27,5 +27,8 @@ DEPENDENCIES
   rails_12factor
   sinatra (~> 1.4)
 
+RUBY VERSION
+   ruby 2.3.7p456
+
 BUNDLED WITH
-   1.11.2
+   2.0.2
