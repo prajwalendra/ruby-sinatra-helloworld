@@ -1,0 +1,5 @@
+gem install bundler:2.0.2
+
+echo "Call parent assemble"
+
+/usr/libexec/s2i/assemble
